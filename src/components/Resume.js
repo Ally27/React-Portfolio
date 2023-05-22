@@ -1,11 +1,10 @@
 import React from 'react';
-import ResumePdf from '../public/assets/resume.pdf';
 
 const Resume = () => {
   return (
     <section id="resume">
       <h2>Resume</h2>
-      <a class="resume-download" href={ResumePdf} download>Download Resume</a>
+      <a class="resume-download" href="./public/resume.pdf" download>Download Resume</a>
       <ul>
         <li></li>
         <li></li>
