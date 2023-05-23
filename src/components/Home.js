@@ -3,17 +3,17 @@ import React from "react";
 const Home = () => {
   return (
     <section id="home">
-      <div class="home-header col-md-7">
-        <h1 class="heading">
+      <div className="home-header col-md-7">
+        <h1 className="heading">
           Hello!
-          <span class="wave">👋🏻</span>
+          <span className="wave">👋🏻</span>
         </h1>
-        <h2 class="heading-name">
+        <h2 className="heading-name">
           I'm
-          <strong class="main-name"> Allyson Gonzales </strong>
+          <strong className="main-name"> Allyson Gonzales </strong>
         </h2>
         <div id="container">
-        <div class="typed-out"><p>  a Full stack Web developer</p></div>            
+        <div className="typed-out"><p>  a Full stack Web developer</p></div>            
         </div>
       </div>
     </section>
