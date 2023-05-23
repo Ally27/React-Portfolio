@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%7Breact-portfolio%7D/static/css/main.1c528d38.css",
+    "main.js": "/%7Breact-portfolio%7D/static/js/main.9e6d0a15.js",
+    "static/js/787.a2cb61a6.chunk.js": "/%7Breact-portfolio%7D/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Bottom.jpg": "/%7Breact-portfolio%7D/static/media/Bottom.8f634f7b8991d2ea45ab.jpg",
+    "static/media/adventure.png": "/%7Breact-portfolio%7D/static/media/adventure.4bdbb2d038af9ed74867.png",
+    "static/media/homepage.png": "/%7Breact-portfolio%7D/static/media/homepage.c654953b43b43e74a3a0.png",
+    "static/media/resume-1.png": "/%7Breact-portfolio%7D/static/media/resume-1.66c5136be40f57e3df81.png",
+    "static/media/resume-2.png": "/%7Breact-portfolio%7D/static/media/resume-2.a052bd06193bb5b75a61.png",
+    "index.html": "/%7Breact-portfolio%7D/index.html",
+    "main.1c528d38.css.map": "/%7Breact-portfolio%7D/static/css/main.1c528d38.css.map",
+    "main.9e6d0a15.js.map": "/%7Breact-portfolio%7D/static/js/main.9e6d0a15.js.map",
+    "787.a2cb61a6.chunk.js.map": "/%7Breact-portfolio%7D/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c528d38.css",
+    "static/js/main.9e6d0a15.js"
+  ]
+}
