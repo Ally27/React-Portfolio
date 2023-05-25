@@ -4,6 +4,11 @@ const Navigation = ({ currentSection, handleNavClick }) => {
   return (
     <nav>
       <ul>
+      <li className={currentSection === 'home' ? 'active' : ''}>
+          <a href="#home" onClick={() => handleNavClick('home')}>
+            Home
+          </a>
+        </li>
         <li className={currentSection === 'about' ? 'active' : ''}>
           <a href="#about" onClick={() => handleNavClick('about')}>
             About Me

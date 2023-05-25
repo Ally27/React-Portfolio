@@ -24,7 +24,7 @@ const App= () =>{
         {currentSection === 'contact' && <Contact />}
         {currentSection === 'resume' && <Resume />}
       </main>
-      <footer>
+      <footer className='footer'>
         {/* Footer content coming soon */}
       </footer>
     </div>
