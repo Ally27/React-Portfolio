@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.1c528d38.css",
-    "main.js": "/react-portfolio/static/js/main.be2ef3dd.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/Bottom.jpg": "/react-portfolio/static/media/Bottom.8f634f7b8991d2ea45ab.jpg",
-    "static/media/adventure.png": "/react-portfolio/static/media/adventure.4bdbb2d038af9ed74867.png",
-    "static/media/homepage.png": "/react-portfolio/static/media/homepage.c654953b43b43e74a3a0.png",
-    "static/media/resume-1.png": "/react-portfolio/static/media/resume-1.66c5136be40f57e3df81.png",
-    "static/media/resume-2.png": "/react-portfolio/static/media/resume-2.a052bd06193bb5b75a61.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.1c528d38.css.map": "/react-portfolio/static/css/main.1c528d38.css.map",
-    "main.be2ef3dd.js.map": "/react-portfolio/static/js/main.be2ef3dd.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/static/css/main.58affb62.css",
+    "main.js": "/static/js/main.42bd8169.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Bottom.jpg": "/static/media/Bottom.8f634f7b8991d2ea45ab.jpg",
+    "static/media/Weather.png": "/static/media/Weather.9f41463878cb39e7e179.png",
+    "static/media/adventure.png": "/static/media/adventure.4bdbb2d038af9ed74867.png",
+    "static/media/quiz.png": "/static/media/quiz.51d0395b971ef59aebc9.png",
+    "static/media/homepage.png": "/static/media/homepage.c654953b43b43e74a3a0.png",
+    "static/media/NoteVault.png": "/static/media/NoteVault.be757052fba53b5ac0a4.png",
+    "static/media/resume-1.png": "/static/media/resume-1.66c5136be40f57e3df81.png",
+    "static/media/blog.png": "/static/media/blog.70177f8c5c47f9701444.png",
+    "static/media/resume-2.png": "/static/media/resume-2.a052bd06193bb5b75a61.png",
+    "static/media/generator.png": "/static/media/generator.c6ab7b60b8ba57dc86ec.png",
+    "index.html": "/index.html",
+    "main.58affb62.css.map": "/static/css/main.58affb62.css.map",
+    "main.42bd8169.js.map": "/static/js/main.42bd8169.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c528d38.css",
-    "static/js/main.be2ef3dd.js"
+    "static/css/main.58affb62.css",
+    "static/js/main.42bd8169.js"
   ]
 }
