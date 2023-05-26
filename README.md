@@ -1,26 +1,38 @@
 # React Portfolio
 
 ## Description
+Welcome to My Awesome React App! This is a powerful and feature-rich web application built using React.js. My goal was to simulate a professional work environment!
 
 
 ## Table of Contents
 
-
 - [Photos](#photos)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Deployment](#deployment)
 - [License](#license)
 - [Test](#tests)
 - [Questions](#questions)
 
 ## Photos
+<img src="src\assets\images\readmeImg.png" width="250px"><br>
+<img src="src\assets\images\portfolioPage.png" width="250px"><br>
+<img src="src\assets\images\contactPage.png" width="250px"><br>
 
 
 ## Installation
+ 1. Clone the repository and install the dependencies<br>
+ ``` yarn install ```<br>
+ or <br>
+ ``` npm install ```
+ 2. Start the frontend application locally<br>
+ ``` yarn start ```<br>
+ or<br>
+ ``` npm start ```
 
 
-## Usage
-
+## Deployment
+[LiveApplication](https://ally27.github.io/react-portfolio/#home) <br>
+[GitHub-Repo](https://github.com/Ally27/react-portfolio)
 
 
 ## License
@@ -47,7 +59,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Tests
-
+```npm test```
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
 
 
 # Questions

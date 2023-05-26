@@ -279,7 +279,7 @@ ul{
   left: 0;
   bottom: 0;
   width: 100%;
-  height: 20px; /* Adjust the height according to your footer's content */
+  height: 1px;
   background-color: #282c34;
   text-align: center;
   padding: 20px;
